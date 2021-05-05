@@ -10,10 +10,6 @@
 //------------------------------------------------------------------------------
 
 using Bookinist;
-using MathCore.WPF;
-using MathCore.WPF.Commands;
-using MathCore.WPF.Converters;
-using MathCore.WPF.UIEvents;
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -57,7 +53,7 @@ namespace Bookinist {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Bookinist;V1.0.0.0;component/views/windows/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Bookinist;component/views/windows/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\Windows\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,5 @@
+C:\Users\alec\source\repos\Bookinist\Bookinist\obj\Debug\netcoreapp3.1\Bookinist.csprojAssemblyReference.cache
+C:\Users\alec\source\repos\Bookinist\Bookinist\obj\Debug\netcoreapp3.1\Views\Windows\MainWindow.g.cs
+C:\Users\alec\source\repos\Bookinist\Bookinist\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alec\source\repos\Bookinist\Bookinist\obj\Debug\netcoreapp3.1\Bookinist_MarkupCompile.cache
+C:\Users\alec\source\repos\Bookinist\Bookinist\obj\Debug\netcoreapp3.1\Bookinist_MarkupCompile.lref
